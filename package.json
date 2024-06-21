@@ -1,0 +1,17 @@
+
+{
+  "name": "testing-framework",
+  "version": "1.0.0",
+  "description": "A comprehensive testing framework for UI, API, and mobile testing with CI/CD, logging, and monitoring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.14.1",
+    "winston": "^3.3.3"
+  },
+  "author": "Brent Singh",
+  "license": "MIT"
+}
+  

@@ -1,0 +1,21 @@
+
+{
+  "ui": {
+    "login": {
+      "validUser": {
+        "username": "john",
+        "password": "demo"
+      }
+    }
+  },
+  "api": {
+    "endpoints": {
+      "getUser": {
+        "url": "https://jsonplaceholder.typicode.com/users/1",
+        "method": "GET",
+        "expectedStatus": 200
+      }
+    }
+  }
+}
+  
